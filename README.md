@@ -30,11 +30,6 @@ This project analyzes customer churn using **Microsoft Excel (XLSM)** to identif
 
 ---
 
-## 📊 Dashboard Preview
-![Customer Churn Dashboard](screenshots/dashboard1.png)
-
-
----
 
 ## Dataset Description
 - Customer ID
@@ -43,7 +38,7 @@ This project analyzes customer churn using **Microsoft Excel (XLSM)** to identif
 - Card Type
 - Churn Status
 
-  ---
+ ---
 
 
 ## 🚀 How to Use
