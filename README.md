@@ -16,6 +16,7 @@ This project analyzes customer churn using **Microsoft Excel (XLSM)** to identif
 ## 📷 Dashboard Screenshot
 ![Dashboard Preview](Screeenshots/dashboard.png)
 
+![Dashboard Preview](Screeenshots/dashboard2.png)
 
 ---
 
